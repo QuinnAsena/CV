@@ -82,28 +82,7 @@ contact_info %>%
   glue_data("- <i class='fa fa-{icon}'></i> {contact}")
 ```
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-George Perry Lab {#labgroup}
---------------------------------------------------------------------------------
-
-Interested in the lab group?
-Visit George Perry's lab group: [Spatial Ecology Group](https://spatialecol.com/)
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -117,6 +96,7 @@ Visit George Perry's lab group: [Spatial Ecology Group](https://spatialecol.com/
 Online Resources {#onlineresources}
 --------------------------------------------------------------------------------
 
+
 - `fisheR`: R package for calculating Fisher's Information on time-series available at [github](https://github.com/UoA-eResearch/fisheR).
 
 - `app` [Population growth](https://quinnasena.shinyapps.io/r_logistic/)
@@ -124,6 +104,33 @@ Online Resources {#onlineresources}
 - `app` [Population growth for lecture](https://quinnasena.shinyapps.io/growth_app/)
 
 - `lecture` [slides](https://quinnasena.github.io/growth_lecture/pop_growth.html#1)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+References {#references}
+--------------------------------------------------------------------------------
+
+Professor George Perry
+
+[george.perry@auckland.ac.nz](george.perry@auckland.ac.nz)
+<br>
+<br>
+
+Associate Professor Janet M Wilmshurst
+
+[janet.wilmshurst@auckland.ac.nz](janet.wilmshurst@auckland.ac.nz)
+<br>
+<br>
+Additional references available on request
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -187,6 +194,9 @@ University Papers/Modules:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 __Skills__
 
@@ -210,22 +220,6 @@ position_data %>% print_section('academic_articles')
 
 Packages and apps {data-icon=robot}
 --------------------------------------------------------------------------------
-::: aside
-__References__
-
-Professor George Perry
-
-[george.perry@auckland.ac.nz](george.perry@auckland.ac.nz)
-<br>
-<br>
-
-Associate Professor Janet M Wilmshurst
-
-[janet.wilmshurst@auckland.ac.nz](janet.wilmshurst@auckland.ac.nz)
-<br>
-<br>
-Additional references available on request
-:::
 
 
 
@@ -247,25 +241,28 @@ position_data %>% print_section('packages')
 Select Workshops and Conferences {data-icon=book}
 --------------------------------------------------------------------------------
 
-
-```{r}
-position_data %>% print_section('workshops_conferences')
-```
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-Volunteering and other Experience {data-icon=balance-scale}
---------------------------------------------------------------------------------
-
 ::: aside
+__George Perry Lab__
+
+Interested in the lab group?
+Visit George Perry's lab group: [Spatial Ecology Group](https://spatialecol.com/)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 __Hobbies and Interests__
 
 - _Keen musician improving my piano skills_
@@ -273,6 +270,16 @@ __Hobbies and Interests__
 
 - _Rock climber, if I'm not working I'm probably up a mountain. Been teaching rock climbing safety in the university club for two years_
 :::
+
+```{r}
+position_data %>% print_section('workshops_conferences')
+```
+
+
+Volunteering and other Experience {data-icon=balance-scale}
+--------------------------------------------------------------------------------
+
+
 
 ```{r}
 position_data %>% print_section('other')
