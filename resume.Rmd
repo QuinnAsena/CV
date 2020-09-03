@@ -238,7 +238,7 @@ position_data %>% print_section('packages')
 <br>
 <br>
 
-Select Workshops and Conferences {data-icon=book}
+Selected Workshops and Conferences {data-icon=book}
 --------------------------------------------------------------------------------
 
 ::: aside
