@@ -182,15 +182,15 @@ _Attended several courses during my PhD to improve my software proficiency and s
 
 Software courses:
 
-- Software Carpentry
-- Winter Bootcamp
-- Research Bazaar
+- \- Software Carpentry
+- \- Winter Bootcamp
+- \- Research Bazaar
 
 
 University Papers/Modules:
 
-- Environmental Data Analysis
-- Modelling of Environmental Systems
+- \- Environmental Data Analysis
+- \- Modelling of Environmental Systems
 
 <br>
 <br>
@@ -204,11 +204,11 @@ University Papers/Modules:
 
 __Skills__
 
-- `R` programming
-- High performance computing
-- Microscopy
-- ITRAX core scanning
-- Peat core preparation
+- \- <i class="fab fa-r-project"></i> programming
+- \- High performance computing
+- \- Microscopy
+- \- ITRAX core scanning
+- \- Peat core preparation
 
 :::
 
