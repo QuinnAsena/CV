@@ -152,9 +152,9 @@ Main
 Quinn Asena {#title}
 --------------------------------------------------------------------------------
 
-_PhD candidate at the University of Auckland studying regime shifts in terrestrial ecosystems. Incorporating palaeoecological techniques and modelling. Investigating a range of resilience indicators / early warning signals and their application to palaeoecological data. Developed a multi-species-response model for investigating regime shifts._
+_PhD candidate at the University of Auckland exploring ecosystem change using palaeoecological and modelling techniques. I develop ecological simulations to investigate underlying ecosystem dynamics and the reliability of statistical methods unsed in ecological analyses. I also get hands-on in the field and the lab._
 
-_Previously researched environmental monitoring using sensor networks and robotics._
+_Master's researched involved environmental monitoring using sensor networks and robotics._
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
