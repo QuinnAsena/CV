@@ -152,7 +152,7 @@ Main
 Quinn Asena {#title}
 --------------------------------------------------------------------------------
 
-_PhD candidate at the University of Auckland exploring ecosystem change using palaeoecological and modelling techniques. I develop ecological simulations to investigate underlying ecosystem dynamics and the reliability of statistical methods unsed in ecological analyses. I also get hands-on in the field and the lab._
+_PhD candidate at the University of Auckland exploring ecosystem change using palaeoecological and modelling techniques. I develop ecological simulations to investigate underlying ecosystem dynamics and the reliability of statistical methods used in ecological analyses. I also get hands-on in the field and the lab._
 
 _Master's researched involved environmental monitoring using sensor networks and robotics._
 
