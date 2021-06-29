@@ -168,6 +168,8 @@ Selected Positions {data-icon=book-open}
 position_data %>% print_section('positions')
 ```
 
+<br>
+<br>
 
 Articles and Publications {data-icon=chess}
 --------------------------------------------------------------------------------
@@ -216,6 +218,11 @@ position_data %>% print_section('academic_articles')
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 Packages and apps {data-icon=robot}
 --------------------------------------------------------------------------------
@@ -226,16 +233,7 @@ Packages and apps {data-icon=robot}
 position_data %>% print_section('packages')
 
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 Selected Workshops and Conferences {data-icon=book}
 --------------------------------------------------------------------------------
