@@ -96,18 +96,16 @@ contact_info %>%
 Online Resources {#onlineresources}
 --------------------------------------------------------------------------------
 
+- Workshop: [Quarto for Colaboration](https://github.com/QuinnAsena/resbaz2022)
 
-- `fisheR`: R package for calculating Fisher's Information on time-series available at [github](https://github.com/UoA-eResearch/fisheR).
+- `fisheR`: R package for calculating Fisher's Information on time-series. Available at [github](https://github.com/UoA-eResearch/fisheR).
 
-- `app` [Population growth](https://quinnasena.shinyapps.io/r_logistic/)
+- `app:` [Population growth](https://quinnasena.shinyapps.io/r_logistic/)
 
-- `app` [Population growth for lecture](https://quinnasena.shinyapps.io/growth_app/)
+- `app:` [Population growth for lecture](https://quinnasena.shinyapps.io/growth_app/)
 
-- `lecture` [slides](https://quinnasena.github.io/growth_lecture/pop_growth.html#1)
+- Lecture: [Ecological modelling](https://quinnasena.github.io/growth_lecture/pop_growth.html#1)
 
-
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -119,21 +117,27 @@ Online Resources {#onlineresources}
 References {#references}
 --------------------------------------------------------------------------------
 
+Professor Jack Williams
+
+[jwwilliams1@wisc.edu](jwwilliams1@wisc.edu)
+<br>
+<br>
+
 Professor George Perry
 
 [george.perry@auckland.ac.nz](george.perry@auckland.ac.nz)
 <br>
 <br>
 
-Associate Professor Janet M Wilmshurst
+<!-- Associate Professor Janet M Wilmshurst -->
 
-[janet.wilmshurst@auckland.ac.nz](janet.wilmshurst@auckland.ac.nz)
+<!-- [janet.wilmshurst@auckland.ac.nz](janet.wilmshurst@auckland.ac.nz) -->
 <br>
 <br>
 
-Associate Professor Giovanni Coco
+<!-- Associate Professor Giovanni Coco -->
 
-[g.coco@auckland.ac.nz](g.coco@auckland.ac.nz)
+<!-- [g.coco@auckland.ac.nz](g.coco@auckland.ac.nz) -->
 
 
 Disclaimer {#disclaimer}
@@ -152,9 +156,7 @@ Main
 Quinn Asena {#title}
 --------------------------------------------------------------------------------
 
-_PhD candidate at the University of Auckland exploring ecosystem change using palaeoecological and modelling techniques. I develop ecological simulations to investigate underlying ecosystem dynamics and the reliability of statistical methods used in ecological analyses. I also get hands-on in the field and the lab._
-
-_Master's researched involved environmental monitoring using sensor networks and robotics._
+_Post-doctoral research associate developing and applying new statistical methods to palaeoecological data to understand ecosystem responses to environmental change. Working with Jack Williams and Tony Ives on data across North America on an NSF funded project: Abrupt Change in Ecosystems. I also like to get hands on in the field and lab._
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -162,8 +164,6 @@ Education {data-icon=graduation-cap data-concise=true}
 ```{r}
 position_data %>% print_section('education')
 ```
-
-
 
 Selected Positions {data-icon=book-open}
 --------------------------------------------------------------------------------
@@ -199,10 +199,7 @@ University Papers/Modules:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 __Skills__
 
@@ -219,17 +216,10 @@ position_data %>% print_section('academic_articles')
 ```
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
-Packages and apps {data-icon=robot}
+
+Packages, apps and resources {data-icon=robot}
 --------------------------------------------------------------------------------
 
 
@@ -249,18 +239,22 @@ __George Perry Lab__
 Interested in the lab group?
 Visit George Perry's lab group: [Spatial Ecology Group](https://spatialecol.com/)
 
+<br>
+<br>
+<br>
+
+__Williams Lab__
+
+Check out the [Williams lab](https://williamspaleolab.github.io/)
 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+__Ives Lab__
+
+See what the [Ives Lab](https://ives.labs.wisc.edu/) group do
+
 <br>
 <br>
 <br>
