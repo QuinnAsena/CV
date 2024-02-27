@@ -180,22 +180,21 @@ Articles and Publications {data-icon=chess}
 ::: aside
 __Courses__
 
-_Attended several courses during my PhD to improve my software proficiency and scientific understanding including:_
+_I regularly attend courses and workshops to improve my software proficiency and scientific understanding including:_
 
 Software courses:
 
+- \- Python for geospatial analysis 
+- \- Google Earth Engine for spatial analysis
 - \- Software Carpentry
-- \- Winter Bootcamp
 - \- Research Bazaar
 
 
-University Papers/Modules:
+University Modules:
 
 - \- Environmental Data Analysis
 - \- Modelling of Environmental Systems
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -222,17 +221,6 @@ position_data %>% print_section('academic_articles')
 Packages, apps and resources {data-icon=robot}
 --------------------------------------------------------------------------------
 
-
-
-```{r}
-position_data %>% print_section('packages')
-
-```
-
-
-Selected Workshops and Conferences {data-icon=book}
---------------------------------------------------------------------------------
-
 ::: aside
 __George Perry Lab__
 
@@ -255,16 +243,26 @@ __Ives Lab__
 
 See what the [Ives Lab](https://ives.labs.wisc.edu/) group do
 
-<br>
-<br>
-<br>
+
+:::
+
+```{r}
+position_data %>% print_section('packages')
+
+```
+
+
+Selected Workshops and Conferences {data-icon=book}
+--------------------------------------------------------------------------------
+
+::: aside
 
 __Hobbies and Interests__
 
 - _Keen musician improving my piano skills_
 <br>
 
-- _Rock climber, if I'm not working I'm probably up a mountain. Been teaching rock climbing safety in the university club for two years_
+- _Rock climber, if I'm not working I'm probably up a mountain. I teach rock climbing safety at university clubs._
 :::
 
 ```{r}
