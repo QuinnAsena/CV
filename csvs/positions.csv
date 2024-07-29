@@ -41,7 +41,7 @@ workshops_conferences,TRUE,"EcoRe3: Resistance, Recovery and Resilience in Long-
 workshops_conferences,TRUE,Paleodata Demo Derby Workshop,University of Wisconsin,"Wisconsin, USA",2018,2018,Participant,,
 workshops_conferences,FALSE,Sensors100,University of York,"York, UK",2016,2016,Poster presentation,,
 workshops_conferences,FALSE,BIOGEOMON International Symposium on Ecosystem Behavior,Critical Zone Exploration Network,Czech Republic,2017,2017,Poster co-author,,
-packages,TRUE,Authoring collaborative research projects in Quarto,Workshop,,2022,2023,Workshop resources for hosting collaborative research projects using Git andGitHub,Hosted on [GitHub for ResBaz 2022-2023](https://github.com/QuinnAsena/resbaz2022),
+packages,TRUE,Authoring collaborative research projects in Quarto,Workshop,,2022,2024,Workshop resources for hosting collaborative research projects using Git andGitHub,Hosted on [GitHub for ResBaz 2022-2024](https://github.com/QuinnAsena/resbaz2022),
 packages,TRUE,fisheR,R package,,2019,2019,Translation of python script for calculating Fisher's Information on time-series data,Code available on [GitHub](https://github.com/UoA-eResearch/fisheR),
 packages,TRUE,Population growth app,Shiny app,,2019,2019,[Population growth app](https://quinnasena.shinyapps.io/r_logistic/) exploring different population growth equations for educational purposes,,
 packages,TRUE,Population growth lecture aid app,Shiny app,,2019,2019,[App to accompany population growth lecture](https://quinnasena.shinyapps.io/growth_app/) and help students through population growth calculations,,
