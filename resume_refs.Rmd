@@ -93,41 +93,45 @@ contact_info %>%
 <br>
 <br>
 
-Online Resources {#onlineresources}
---------------------------------------------------------------------------------
+<!-- Online Resources {#onlineresources} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-- Workshop: [Quarto for Colaboration](https://github.com/QuinnAsena/resbaz2022)
+<!-- - Workshop: [Quarto for Colaboration](https://github.com/QuinnAsena/resbaz2022) -->
 
-- `fisheR`: R package for calculating Fisher's Information on time-series. Available at [github](https://github.com/UoA-eResearch/fisheR).
+<!-- - `fisheR`: R package for calculating Fisher's Information on time-series. Available at [github](https://github.com/UoA-eResearch/fisheR). -->
 
-- `app:` [Population growth](https://quinnasena.shinyapps.io/r_logistic/)
+<!-- - `app:` [Population growth](https://quinnasena.shinyapps.io/r_logistic/) -->
 
-- `app:` [Population growth for lecture](https://quinnasena.shinyapps.io/growth_app/)
+<!-- - `app:` [Population growth for lecture](https://quinnasena.shinyapps.io/growth_app/) -->
 
-- Lecture: [Ecological modelling](https://quinnasena.github.io/growth_lecture/pop_growth.html#1)
+<!-- - Lecture: [Ecological modelling](https://quinnasena.github.io/growth_lecture/pop_growth.html#1) -->
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
 
 References {#references}
 --------------------------------------------------------------------------------
 
-Professor Jack Williams
+Professor Jack Williams (Postdoc PI)
 
 [jwwilliams1@wisc.edu](jwwilliams1@wisc.edu)
 <br>
 <br>
 
-Professor George Perry
+Professor George Perry (PhD Supervisor)
 
 [george.perry@auckland.ac.nz](george.perry@auckland.ac.nz)
 <br>
 <br>
+
+Professor Anthony Ives (Postdoc PI)
+
+[arives@wisc.edu](arives@wisc.edu)
 
 <!-- Associate Professor Janet M Wilmshurst -->
 
@@ -251,6 +255,7 @@ position_data %>% print_section('packages')
 
 ```
 
+<br>
 
 Selected Workshops and Conferences {data-icon=book}
 --------------------------------------------------------------------------------
