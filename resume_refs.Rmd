@@ -7,7 +7,7 @@ output:
     css: ['css/custom_resume.css', 'css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-knit: pagedown::chrome_print    
+# knit: pagedown::chrome_print    
 ---
 
 
@@ -144,12 +144,11 @@ Professor Anthony Ives (Postdoc PI)
 <!-- [g.coco@auckland.ac.nz](g.coco@auckland.ac.nz) -->
 
 
-Disclaimer {#disclaimer}
+Citations and h-index
 --------------------------------------------------------------------------------
 
-Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
-
-Source code: [github.com/nstrayer/cv](https://github.com/nstrayer/cv).
+- **Citations: 55**
+- **h-index: 3**
 
 
 
@@ -176,43 +175,9 @@ Selected Positions {data-icon=book-open}
 position_data %>% print_section('positions')
 ```
 
-<br>
-<br>
-
 Articles and Publications {data-icon=chess}
 --------------------------------------------------------------------------------
-::: aside
-__Courses__
 
-_I regularly attend courses and workshops to improve my software proficiency and scientific understanding including:_
-
-Software courses:
-
-- \- Python for geospatial analysis 
-- \- Google Earth Engine for spatial analysis
-- \- Software Carpentry
-- \- Research Bazaar
-
-
-University Modules:
-
-- \- Environmental Data Analysis
-- \- Modelling of Environmental Systems
-
-<br>
-<br>
-<br>
-
-
-__Skills__
-
-- \- <i class="fab fa-r-project"></i> programming
-- \- High performance computing
-- \- Microscopy
-- \- ITRAX core scanning
-- \- Peat core preparation
-
-:::
 
 ```{r}
 position_data %>% print_section('academic_articles')
@@ -274,16 +239,6 @@ __Hobbies and Interests__
 position_data %>% print_section('workshops_conferences')
 ```
 
-
-Volunteering and other Experience {data-icon=balance-scale}
---------------------------------------------------------------------------------
-
-
-
-```{r}
-position_data %>% print_section('other')
-
-```
 
 
 
