@@ -147,8 +147,8 @@ Professor Anthony Ives (Postdoc PI)
 Citations and h-index
 --------------------------------------------------------------------------------
 
-- **Citations: 55**
-- **h-index: 3**
+- **Citations: 66**
+- **h-index: 4**
 
 
 
@@ -159,7 +159,7 @@ Main
 Quinn Asena {#title}
 --------------------------------------------------------------------------------
 
-_Post-doctoral research associate developing and applying new statistical methods to palaeoecological data to understand ecosystem responses to environmental change. Working with Jack Williams and Tony Ives on data across North America on an NSF funded project: Abrupt Change in Ecosystems. I also like to get hands on in the field and lab._
+_I’m interested in ecological dynamics and mechanisms that underlie change in ecosystems over time and space. My main research focus is around biotic interactions and how ecosystems respond to environmental and climate change. Much of my previous research has focused on long-term ecological trajectories and palaeoecology. Now, I am exploring contemporary ecosystem change through process-based models._
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -240,10 +240,24 @@ position_data %>% print_section('workshops_conferences')
 ```
 
 
+Committees {data-icon=bookmark-o}
+--------------------------------------------------------------------------------
+
+
+```{r}
+position_data %>% print_section('other')
+
+```
 
 
 
 
+Paper reviews {data-icon=balance-scale}
+--------------------------------------------------------------------------------
 
 
+```{r}
+position_data %>% print_section('paper_review')
+
+```
 
