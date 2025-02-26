@@ -187,13 +187,20 @@ position_data %>% print_section('academic_articles')
 
 
 
-Packages, apps and resources {data-icon=robot}
---------------------------------------------------------------------------------
-
 ::: aside
-__George Perry Lab__
 
 Interested in the lab group?
+
+__Forest Futures Lab__
+
+See what we do at the [Forest Futures Lab](https://forestfutureslab.org/)
+
+<br>
+<br>
+<br>
+
+__George Perry Lab__
+
 Visit George Perry's lab group: [Spatial Ecology Group](https://spatialecol.com/)
 
 <br>
@@ -212,8 +219,14 @@ __Ives Lab__
 
 See what the [Ives Lab](https://ives.labs.wisc.edu/) group do
 
-
 :::
+
+
+
+
+Packages, apps and resources {data-icon=robot}
+--------------------------------------------------------------------------------
+
 
 ```{r}
 position_data %>% print_section('packages')
@@ -239,6 +252,7 @@ __Hobbies and Interests__
 position_data %>% print_section('workshops_conferences')
 ```
 
+<br>
 
 Committees {data-icon=bookmark-o}
 --------------------------------------------------------------------------------
@@ -249,8 +263,7 @@ position_data %>% print_section('other')
 
 ```
 
-
-
+<br>
 
 Paper reviews {data-icon=balance-scale}
 --------------------------------------------------------------------------------
